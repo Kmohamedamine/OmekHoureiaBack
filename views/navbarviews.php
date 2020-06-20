@@ -33,7 +33,11 @@
         </a>
       </li>
 
-      
+        <li>
+        <a href="tables2.php">
+          <i class="zmdi zmdi-format-list-bulleted"></i> <span>reservation </span>
+        </a>
+      </li>
 
       <li>
         <a href="form_ajouter_ingredient.php">

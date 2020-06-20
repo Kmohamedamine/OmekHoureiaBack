@@ -26,6 +26,11 @@
           <i class="zmdi zmdi-format-list-bulleted"></i> <span>Chercher client</span>
         </a>
       </li>
+        <li>
+        <a href="views/tables2.php">
+          <i class="zmdi zmdi-format-list-bulleted"></i> <span>reservation </span>
+        </a>
+      </li>
 
       <li>
         <a href="views/form_ajouter_fournisseur.php">
